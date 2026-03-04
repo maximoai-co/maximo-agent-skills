@@ -1,6 +1,6 @@
 ---
 name: cmc-x402
-description: |
+description: 
   Access CoinMarketCap data via x402 pay-per-request protocol with USDC payments on Base.
   Use when users mention x402, want CMC data without API keys, ask about pay-per-request APIs, or need to integrate CMC with on-chain payments. Also use for any Coinbase x402 protocol questions.
   Trigger: "x402", "pay per request", "no API key", "USDC payment", "CMC without subscription", "/cmc-x402"
