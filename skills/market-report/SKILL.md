@@ -6,6 +6,7 @@ description:
   Trigger: "market report", "market overview", "what's happening in crypto", "market sentiment", "fear and greed", "is it altcoin season", "/market-report"
 license: MIT
 compatibility: ">=1.0.0"
+license: MIT
 user-invocable: true
 allowed-tools:
   - mcp__cmc-mcp__get_global_metrics_latest

@@ -6,6 +6,7 @@ description:
   Trigger: "research [coin]", "tell me about [coin]", "should I invest in [coin]", "DYOR [coin]", "is [coin] safe", "/crypto-research"
 license: MIT
 compatibility: ">=1.0.0"
+license: MIT
 user-invocable: true
 allowed-tools:
   - mcp__cmc-mcp__search_cryptos

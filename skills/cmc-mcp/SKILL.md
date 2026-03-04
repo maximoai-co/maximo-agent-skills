@@ -6,6 +6,7 @@ description:
   Trigger: "bitcoin", "ETH", "crypto", "token price", "market cap", "how is [coin] doing", "/cmc-mcp"
 license: MIT
 compatibility: ">=1.0.0"
+license: MIT
 user-invocable: true
 allowed-tools:
   - mcp__cmc-mcp__search_cryptos

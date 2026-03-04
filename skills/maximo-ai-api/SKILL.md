@@ -3,6 +3,7 @@ name: maximo-ai-api
 description: 
   API reference for Maximo AI Platform. Use this skill whenever you need to interact with Maximo AI's chat completions API, including making inference requests, streaming responses, tool calling, and working with reasoning models.
   Trigger: "maximo ai", "maximo api", "maximo inference", "/maximo-ai-api"
+license: MIT
 user-invocable: true
 allowed-tools:
   - Bash

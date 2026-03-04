@@ -4,6 +4,7 @@ description:
   API reference for CoinMarketCap exchange endpoints including exchange info, volume, market pairs, and assets.
   Use this skill whenever the user mentions exchange API, asks about exchange volumes, wants trading pair data, needs proof-of-reserves info, or is building exchange integrations. This is the authoritative reference for CMC exchange API questions.
   Trigger: "exchange API", "CMC exchange data", "trading pairs API", "exchange volume API", "/cmc-api-exchange"
+license: MIT
 user-invocable: true
 allowed-tools:
   - Bash
