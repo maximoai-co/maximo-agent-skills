@@ -190,12 +190,7 @@ print(f"Arguments: {tool_call.function.arguments}")
 
 ## Available Maximo Models
 
-Maximo AI provides access to proprietary Maximo models only. Available models include:
-
-- `maximo-pandora-3-nano` - Fast, efficient model
-- `maximo-pandora-3` - Full model
-- `maximo-pandora-2` - Previous generation
-- And other Maximo proprietary models
+Maximo AI provides access to proprietary Maximo models only. For the full list of available models, visit: https://maximoai.co/platform/models
 
 ## Error Handling
 
