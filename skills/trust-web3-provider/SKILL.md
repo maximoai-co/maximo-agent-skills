@@ -1,6 +1,7 @@
 ---
 name: trust-web3-provider
 description: Integrate and build on Trust Wallet's Web3 provider library. Use when working with trust-web3-provider, @trustwallet/web3-provider-*, or adding blockchain provider support for Ethereum, Solana, Cosmos, Bitcoin, Aptos, TON, or Tron.
+license: MIT
 ---
 
 # Trust Wallet Web3 Provider
