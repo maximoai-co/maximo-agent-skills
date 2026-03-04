@@ -11,7 +11,7 @@ allowed-tools:
 
 # Maximo AI API
 
-Maximo AI provides unified access to proprietary and third-party models via a standardized, OpenAI-compatible endpoint.
+Maximo AI provides access to proprietary Maximo AI models via a standardized, OpenAI-compatible endpoint.
 
 ## Base URL
 
@@ -188,13 +188,14 @@ print(f"Tool: {tool_call.function.name}")
 print(f"Arguments: {tool_call.function.arguments}")
 ```
 
-## Available Models
+## Available Maximo Models
 
-Common models available on Maximo AI (check documentation for full list):
+Maximo AI provides access to proprietary Maximo models only. Available models include:
 
 - `maximo-pandora-3-nano` - Fast, efficient model
 - `maximo-pandora-3` - Full model
 - `maximo-pandora-2` - Previous generation
+- And other Maximo proprietary models
 
 ## Error Handling
 
