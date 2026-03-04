@@ -58,26 +58,26 @@ See [use-cases.md](references/use-cases.md) for goal-based guidance on which end
 
 ## API Overview
 
-| Endpoint | Method | Description | Reference |
-|----------|--------|-------------|-----------|
-| /v1/dex/token | GET | Token details by platform/address | [tokens.md](references/tokens.md) |
-| /v1/dex/token/price | GET | Latest DEX price for a token | [tokens.md](references/tokens.md) |
-| /v1/dex/token/price/batch | POST | Batch token prices | [tokens.md](references/tokens.md) |
-| /v1/dex/token/pools | GET | Liquidity pools for a token | [tokens.md](references/tokens.md) |
-| /v1/dex/token-liquidity/query | GET | Token liquidity over time | [tokens.md](references/tokens.md) |
-| /v1/dex/tokens/batch-query | POST | Batch token metadata | [tokens.md](references/tokens.md) |
-| /v1/dex/tokens/transactions | GET | Recent DEX transactions | [tokens.md](references/tokens.md) |
-| /v1/dex/tokens/trending/list | POST | Trending DEX tokens | [tokens.md](references/tokens.md) |
-| /v4/dex/pairs/quotes/latest | GET | Latest DEX pair quotes | [pairs.md](references/pairs.md) |
-| /v4/dex/spot-pairs/latest | GET | DEX spot pairs listing | [pairs.md](references/pairs.md) |
-| /v1/dex/platform/list | GET | List supported DEX platforms | [platforms.md](references/platforms.md) |
-| /v1/dex/platform/detail | GET | Platform details | [platforms.md](references/platforms.md) |
-| /v1/dex/search | GET | Search DEX tokens/pairs | [platforms.md](references/platforms.md) |
-| /v1/dex/gainer-loser/list | POST | Top DEX gainers/losers | [discovery.md](references/discovery.md) |
-| /v1/dex/liquidity-change/list | GET | Tokens with liquidity changes | [discovery.md](references/discovery.md) |
-| /v1/dex/meme/list | POST | Meme tokens on DEX | [discovery.md](references/discovery.md) |
-| /v1/dex/new/list | POST | Newly discovered DEX tokens | [discovery.md](references/discovery.md) |
-| /v1/dex/security/detail | GET | Token security/risk signals | [security.md](references/security.md) |
+| Endpoint                      | Method | Description                       | Reference                               |
+| ----------------------------- | ------ | --------------------------------- | --------------------------------------- |
+| /v1/dex/token                 | GET    | Token details by platform/address | [tokens.md](references/tokens.md)       |
+| /v1/dex/token/price           | GET    | Latest DEX price for a token      | [tokens.md](references/tokens.md)       |
+| /v1/dex/token/price/batch     | POST   | Batch token prices                | [tokens.md](references/tokens.md)       |
+| /v1/dex/token/pools           | GET    | Liquidity pools for a token       | [tokens.md](references/tokens.md)       |
+| /v1/dex/token-liquidity/query | GET    | Token liquidity over time         | [tokens.md](references/tokens.md)       |
+| /v1/dex/tokens/batch-query    | POST   | Batch token metadata              | [tokens.md](references/tokens.md)       |
+| /v1/dex/tokens/transactions   | GET    | Recent DEX transactions           | [tokens.md](references/tokens.md)       |
+| /v1/dex/tokens/trending/list  | POST   | Trending DEX tokens               | [tokens.md](references/tokens.md)       |
+| /v4/dex/pairs/quotes/latest   | GET    | Latest DEX pair quotes            | [pairs.md](references/pairs.md)         |
+| /v4/dex/spot-pairs/latest     | GET    | DEX spot pairs listing            | [pairs.md](references/pairs.md)         |
+| /v1/dex/platform/list         | GET    | List supported DEX platforms      | [platforms.md](references/platforms.md) |
+| /v1/dex/platform/detail       | GET    | Platform details                  | [platforms.md](references/platforms.md) |
+| /v1/dex/search                | GET    | Search DEX tokens/pairs           | [platforms.md](references/platforms.md) |
+| /v1/dex/gainer-loser/list     | POST   | Top DEX gainers/losers            | [discovery.md](references/discovery.md) |
+| /v1/dex/liquidity-change/list | GET    | Tokens with liquidity changes     | [discovery.md](references/discovery.md) |
+| /v1/dex/meme/list             | POST   | Meme tokens on DEX                | [discovery.md](references/discovery.md) |
+| /v1/dex/new/list              | POST   | Newly discovered DEX tokens       | [discovery.md](references/discovery.md) |
+| /v1/dex/security/detail       | GET    | Token security/risk signals       | [security.md](references/security.md)   |
 
 ## Common Workflows
 
@@ -114,13 +114,13 @@ Use `/v1/dex/platform/list` to get valid network slugs and platform IDs.
 
 ## Error Handling
 
-| Code | Meaning |
-|------|---------|
-| 400 | Bad request (invalid parameters) |
-| 401 | Unauthorized (invalid or missing API key) |
-| 403 | Forbidden (endpoint not in your plan) |
-| 429 | Rate limit exceeded |
-| 500 | Server error |
+| Code | Meaning                                   |
+| ---- | ----------------------------------------- |
+| 400  | Bad request (invalid parameters)          |
+| 401  | Unauthorized (invalid or missing API key) |
+| 403  | Forbidden (endpoint not in your plan)     |
+| 429  | Rate limit exceeded                       |
+| 500  | Server error                              |
 
 Example error response:
 

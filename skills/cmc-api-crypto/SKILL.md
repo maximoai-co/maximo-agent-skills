@@ -51,24 +51,24 @@ See [use-cases.md](references/use-cases.md) for goal-based guidance on which end
 
 ## API Overview
 
-| Endpoint | Description | Reference |
-|----------|-------------|-----------|
-| GET /v1/cryptocurrency/categories | List all categories with market metrics | [categories.md](references/categories.md) |
-| GET /v1/cryptocurrency/category | Single category details | [categories.md](references/categories.md) |
-| GET /v1/cryptocurrency/listings/historical | Historical listings snapshot | [listings.md](references/listings.md) |
-| GET /v1/cryptocurrency/listings/latest | Current listings with market data | [listings.md](references/listings.md) |
-| GET /v1/cryptocurrency/listings/new | Newly added cryptocurrencies | [listings.md](references/listings.md) |
-| GET /v1/cryptocurrency/map | Map names/symbols to CMC IDs | [map.md](references/map.md) |
-| GET /v1/cryptocurrency/trending/gainers-losers | Top gainers and losers | [trending.md](references/trending.md) |
-| GET /v1/cryptocurrency/trending/latest | Currently trending coins | [trending.md](references/trending.md) |
-| GET /v1/cryptocurrency/trending/most-visited | Most visited on CMC | [trending.md](references/trending.md) |
-| GET /v2/cryptocurrency/info | Static metadata (logo, description, URLs) | [info.md](references/info.md) |
-| GET /v2/cryptocurrency/market-pairs/latest | Trading pairs for a coin | [market-pairs.md](references/market-pairs.md) |
-| GET /v2/cryptocurrency/ohlcv/historical | Historical OHLCV candles | [ohlcv.md](references/ohlcv.md) |
-| GET /v2/cryptocurrency/ohlcv/latest | Latest OHLCV data | [ohlcv.md](references/ohlcv.md) |
-| GET /v2/cryptocurrency/price-performance-stats/latest | Price performance stats | [price-performance.md](references/price-performance.md) |
-| GET /v2/cryptocurrency/quotes/latest | Latest price quotes | [quotes.md](references/quotes.md) |
-| GET /v3/cryptocurrency/quotes/historical | Historical price quotes | [quotes.md](references/quotes.md) |
+| Endpoint                                              | Description                               | Reference                                               |
+| ----------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------- |
+| GET /v1/cryptocurrency/categories                     | List all categories with market metrics   | [categories.md](references/categories.md)               |
+| GET /v1/cryptocurrency/category                       | Single category details                   | [categories.md](references/categories.md)               |
+| GET /v1/cryptocurrency/listings/historical            | Historical listings snapshot              | [listings.md](references/listings.md)                   |
+| GET /v1/cryptocurrency/listings/latest                | Current listings with market data         | [listings.md](references/listings.md)                   |
+| GET /v1/cryptocurrency/listings/new                   | Newly added cryptocurrencies              | [listings.md](references/listings.md)                   |
+| GET /v1/cryptocurrency/map                            | Map names/symbols to CMC IDs              | [map.md](references/map.md)                             |
+| GET /v1/cryptocurrency/trending/gainers-losers        | Top gainers and losers                    | [trending.md](references/trending.md)                   |
+| GET /v1/cryptocurrency/trending/latest                | Currently trending coins                  | [trending.md](references/trending.md)                   |
+| GET /v1/cryptocurrency/trending/most-visited          | Most visited on CMC                       | [trending.md](references/trending.md)                   |
+| GET /v2/cryptocurrency/info                           | Static metadata (logo, description, URLs) | [info.md](references/info.md)                           |
+| GET /v2/cryptocurrency/market-pairs/latest            | Trading pairs for a coin                  | [market-pairs.md](references/market-pairs.md)           |
+| GET /v2/cryptocurrency/ohlcv/historical               | Historical OHLCV candles                  | [ohlcv.md](references/ohlcv.md)                         |
+| GET /v2/cryptocurrency/ohlcv/latest                   | Latest OHLCV data                         | [ohlcv.md](references/ohlcv.md)                         |
+| GET /v2/cryptocurrency/price-performance-stats/latest | Price performance stats                   | [price-performance.md](references/price-performance.md) |
+| GET /v2/cryptocurrency/quotes/latest                  | Latest price quotes                       | [quotes.md](references/quotes.md)                       |
+| GET /v3/cryptocurrency/quotes/historical              | Historical price quotes                   | [quotes.md](references/quotes.md)                       |
 
 ## Common Workflows
 
@@ -112,14 +112,14 @@ curl -X GET "https://pro-api.coinmarketcap.com/v2/cryptocurrency/info?id=1,1027"
 
 ### HTTP Status Codes
 
-| Code | Meaning |
-|------|---------|
-| 200 | Success |
-| 400 | Bad request (invalid parameters) |
-| 401 | Unauthorized (invalid API key) |
-| 403 | Forbidden (endpoint not available on your plan) |
-| 429 | Rate limit exceeded |
-| 500 | Server error |
+| Code | Meaning                                         |
+| ---- | ----------------------------------------------- |
+| 200  | Success                                         |
+| 400  | Bad request (invalid parameters)                |
+| 401  | Unauthorized (invalid API key)                  |
+| 403  | Forbidden (endpoint not available on your plan) |
+| 429  | Rate limit exceeded                             |
+| 500  | Server error                                    |
 
 ### Rate Limits
 

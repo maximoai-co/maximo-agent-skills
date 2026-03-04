@@ -54,6 +54,7 @@ Call `search_cryptos` with the token name/symbol to get the CMC ID. If multiple 
 ### Step 2: Basic Information
 
 Call `get_crypto_info` to get:
+
 - Project description and category
 - Launch date
 - Website, social links, documentation
@@ -62,6 +63,7 @@ Call `get_crypto_info` to get:
 ### Step 3: Market Data
 
 Call `get_crypto_quotes_latest` to get:
+
 - Current price and market cap
 - 24h, 7d, 30d, 90d, 1y price changes
 - Trading volume and volume change
@@ -71,6 +73,7 @@ Call `get_crypto_quotes_latest` to get:
 ### Step 4: Holder Analysis
 
 Call `get_crypto_metrics` to get:
+
 - Address distribution by holding value ($0-1k, $1k-100k, $100k+)
 - Whale concentration (% held by top holders)
 - Holder behavior (traders vs cruisers vs long-term holders)
@@ -78,6 +81,7 @@ Call `get_crypto_metrics` to get:
 ### Step 5: Technical Analysis
 
 Call `get_crypto_technical_analysis` to get:
+
 - Moving averages (7d, 30d, 200d SMA/EMA)
 - RSI (oversold < 30, overbought > 70)
 - MACD signal
@@ -96,18 +100,21 @@ Call `search_crypto_info` to answer specific questions about the token's technol
 After gathering data, evaluate across these dimensions:
 
 ### Fundamentals
+
 - What problem does it solve?
 - Is there a working product?
 - How does it compare to competitors?
 - Is the use case sustainable?
 
 ### Tokenomics
+
 - What % of max supply is circulating?
 - Is there inflation or deflation?
 - Are there large unlocks coming?
 - How concentrated is ownership?
 
 ### Market Position
+
 - Market cap rank and trajectory
 - Volume relative to market cap (healthy turnover?)
 - Price trend (accumulation or distribution?)
@@ -115,6 +122,7 @@ After gathering data, evaluate across these dimensions:
 ### Risk Factors
 
 **Red flags and why they matter:**
+
 - Extreme whale concentration (>10% held by few addresses): Large holders can dump and crash price instantly
 - Low holder count relative to market cap: Thin holder base means price is easily manipulated
 - Declining holder numbers: Smart money may be exiting while retail holds bags
@@ -123,6 +131,7 @@ After gathering data, evaluate across these dimensions:
 - Very low trading volume: Hard to exit positions without significant slippage
 
 **Green flags and why they matter:**
+
 - Growing holder base: Organic adoption suggests real demand, not manufactured hype
 - High % of long-term holders: Conviction from holders who have done research, less sell pressure
 - Healthy distribution across address sizes: Resilient to any single actor manipulating price
