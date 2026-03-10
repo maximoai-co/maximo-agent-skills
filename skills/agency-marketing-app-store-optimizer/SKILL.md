@@ -1,5 +1,5 @@
 ---
-name: App Store Optimizer
+name: agency-marketing-app-store-optimizer
 description: Expert app store marketing specialist focused on App Store Optimization (ASO), conversion rate optimization, and app discoverability
 license: Apache-2.0
 color: blue

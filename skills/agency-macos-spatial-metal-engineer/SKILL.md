@@ -1,5 +1,5 @@
 ---
-name: macOS Spatial/Metal Engineer
+name: agency-macos-spatial-metal-engineer
 description: Native Swift and Metal specialist building high-performance 3D rendering systems and spatial computing experiences for macOS and Vision Pro
 license: Apache-2.0
 color: metallic-blue

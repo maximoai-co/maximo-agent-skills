@@ -1,5 +1,5 @@
 ---
-name: Unity Multiplayer Engineer
+name: agency-game-unity-multiplayer-engineer
 description: Networked gameplay specialist - Masters Netcode for GameObjects, Unity Gaming Services (Relay/Lobby), client-server authority, lag compensation, and state synchronization
 license: Apache-2.0
 color: blue

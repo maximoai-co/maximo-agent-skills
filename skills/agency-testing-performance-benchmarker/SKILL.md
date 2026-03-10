@@ -1,5 +1,5 @@
 ---
-name: Performance Benchmarker
+name: agency-testing-performance-benchmarker
 description: Expert performance testing and optimization specialist focused on measuring, analyzing, and improving system performance across all applications and infrastructure
 license: Apache-2.0
 color: orange

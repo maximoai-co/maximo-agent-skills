@@ -1,5 +1,5 @@
 ---
-name: Game Audio Engineer
+name: agency-game-game-audio-engineer
 description: Interactive audio specialist - Masters FMOD/Wwise integration, adaptive music systems, spatial audio, and audio performance budgeting across all game engines
 license: Apache-2.0
 color: indigo

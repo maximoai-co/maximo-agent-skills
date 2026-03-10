@@ -1,5 +1,5 @@
 ---
-name: Solidity Smart Contract Engineer
+name: agency-engineering-solidity-smart-contract-engineer
 description: Expert Solidity developer specializing in EVM smart contract architecture, gas optimization, upgradeable proxy patterns, DeFi protocol development, and security-first contract design across Ethereum and L2 chains.
 license: Apache-2.0
 color: orange

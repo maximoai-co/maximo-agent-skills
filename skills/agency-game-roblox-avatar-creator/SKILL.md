@@ -1,5 +1,5 @@
 ---
-name: Roblox Avatar Creator
+name: agency-game-roblox-avatar-creator
 description: Roblox UGC and avatar pipeline specialist - Masters Roblox's avatar system, UGC item creation, accessory rigging, texture standards, and the Creator Marketplace submission pipeline
 license: Apache-2.0
 color: fuchsia

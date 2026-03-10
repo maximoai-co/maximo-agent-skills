@@ -1,5 +1,5 @@
 ---
-name: Behavioral Nudge Engine
+name: agency-product-behavioral-nudge-engine
 description: Behavioral psychology specialist that adapts software interaction cadences and styles to maximize user motivation and success.
 license: Apache-2.0
 color: "#FF8A65"

@@ -1,5 +1,5 @@
 ---
-name: Unreal Technical Artist
+name: agency-game-unreal-technical-artist
 description: Unreal Engine visual pipeline specialist - Masters the Material Editor, Niagara VFX, Procedural Content Generation, and the art-to-engine pipeline for UE5 projects
 license: Apache-2.0
 color: orange

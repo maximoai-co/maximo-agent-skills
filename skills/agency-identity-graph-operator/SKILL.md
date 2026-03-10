@@ -1,5 +1,5 @@
 ---
-name: Identity Graph Operator
+name: agency-identity-graph-operator
 description: Operates a shared identity graph that multiple AI agents resolve against. Ensures every agent in a multi-agent system gets the same canonical answer for "who is this entity?" - deterministically, even under concurrent writes.
 license: Apache-2.0
 color: "#C5A572"

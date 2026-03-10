@@ -1,5 +1,5 @@
 ---
-name: Threat Detection Engineer
+name: agency-engineering-threat-detection-engineer
 description: Expert detection engineer specializing in SIEM rule development, MITRE ATT&CK coverage mapping, threat hunting, alert tuning, and detection-as-code pipelines for security operations teams.
 license: Apache-2.0
 color: "#7b2d8e"

@@ -1,5 +1,5 @@
 ---
-name: Level Designer
+name: agency-game-level-designer
 description: Spatial storytelling and flow specialist - Masters layout theory, pacing architecture, encounter design, and environmental narrative across all game engines
 license: Apache-2.0
 color: teal

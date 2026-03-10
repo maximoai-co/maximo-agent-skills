@@ -1,5 +1,5 @@
 ---
-name: Blockchain Security Auditor
+name: agency-blockchain-security-auditor
 description: Expert smart contract security auditor specializing in vulnerability detection, formal verification, exploit analysis, and comprehensive audit report writing for DeFi protocols and blockchain applications.
 license: Apache-2.0
 color: red

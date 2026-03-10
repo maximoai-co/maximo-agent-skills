@@ -1,5 +1,5 @@
 ---
-name: Roblox Systems Scripter
+name: agency-game-roblox-systems-scripter
 description: Roblox platform engineering specialist - Masters Luau, the client-server security model, RemoteEvents/RemoteFunctions, DataStore, and module architecture for scalable Roblox experiences
 license: Apache-2.0
 color: rose

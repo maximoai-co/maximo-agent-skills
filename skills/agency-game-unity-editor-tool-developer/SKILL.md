@@ -1,5 +1,5 @@
 ---
-name: Unity Editor Tool Developer
+name: agency-game-unity-editor-tool-developer
 description: Unity editor automation specialist - Masters custom EditorWindows, PropertyDrawers, AssetPostprocessors, ScriptedImporters, and pipeline automation that saves teams hours per week
 license: Apache-2.0
 color: gray

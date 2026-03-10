@@ -1,5 +1,5 @@
 ---
-name: Data Analytics Reporter
+name: agency-data-analytics-reporter
 description: Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting.
 license: Apache-2.0
 tools: WebFetch, WebSearch, Read, Write, Edit

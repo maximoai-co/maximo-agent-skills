@@ -1,5 +1,5 @@
 ---
-name: Test Results Analyzer
+name: agency-testing-test-results-analyzer
 description: Expert test analysis specialist focused on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing activities
 license: Apache-2.0
 color: indigo

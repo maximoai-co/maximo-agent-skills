@@ -1,5 +1,5 @@
 ---
-name: Security Engineer
+name: agency-engineering-security-engineer
 description: Expert application security engineer specializing in threat modeling, vulnerability assessment, secure code review, and security architecture design for modern web and cloud-native applications.
 license: Apache-2.0
 color: red

@@ -1,5 +1,5 @@
 ---
-name: Report Distribution Agent
+name: agency-report-distribution-agent
 description: AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters
 license: Apache-2.0
 color: "#d69e2e"

@@ -1,5 +1,5 @@
 ---
-name: Jira Workflow Steward
+name: agency-project-management-jira-workflow-steward
 description: Expert delivery operations specialist who enforces Jira-linked Git workflows, traceable commits, structured pull requests, and release-safe branch strategy across software teams.
 license: Apache-2.0
 color: orange

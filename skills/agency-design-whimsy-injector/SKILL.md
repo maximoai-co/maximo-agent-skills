@@ -1,5 +1,5 @@
 ---
-name: Whimsy Injector
+name: agency-design-whimsy-injector
 description: Expert creative specialist focused on adding personality, delight, and playful elements to brand experiences. Creates memorable, joyful interactions that differentiate brands through unexpected moments of whimsy
 license: Apache-2.0
 color: pink

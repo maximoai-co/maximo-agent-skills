@@ -1,5 +1,5 @@
 ---
-name: Feedback Synthesizer
+name: agency-product-feedback-synthesizer
 description: Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations.
 license: Apache-2.0
 color: blue

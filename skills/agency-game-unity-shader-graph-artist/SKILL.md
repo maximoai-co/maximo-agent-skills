@@ -1,5 +1,5 @@
 ---
-name: Unity Shader Graph Artist
+name: agency-game-unity-shader-graph-artist
 description: Visual effects and material specialist - Masters Unity Shader Graph, HLSL, URP/HDRP rendering pipelines, and custom pass authoring for real-time visual effects
 license: Apache-2.0
 color: cyan

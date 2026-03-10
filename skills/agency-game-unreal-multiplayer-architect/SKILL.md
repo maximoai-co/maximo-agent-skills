@@ -1,5 +1,5 @@
 ---
-name: Unreal Multiplayer Architect
+name: agency-game-unreal-multiplayer-architect
 description: Unreal Engine networking specialist - Masters Actor replication, GameMode/GameState architecture, server-authoritative gameplay, network prediction, and dedicated server setup for UE5
 license: Apache-2.0
 color: red

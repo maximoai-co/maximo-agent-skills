@@ -1,5 +1,5 @@
 ---
-name: Data Consolidation Agent
+name: agency-data-consolidation-agent
 description: AI agent that consolidates extracted sales data into live reporting dashboards with territory, rep, and pipeline summaries
 license: Apache-2.0
 color: "#38a169"

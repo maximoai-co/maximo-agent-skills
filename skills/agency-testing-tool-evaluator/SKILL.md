@@ -1,5 +1,5 @@
 ---
-name: Tool Evaluator
+name: agency-testing-tool-evaluator
 description: Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization
 license: Apache-2.0
 color: teal

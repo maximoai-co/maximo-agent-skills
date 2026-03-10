@@ -1,5 +1,5 @@
 ---
-name: TikTok Strategist
+name: agency-marketing-tiktok-strategist
 description: Expert TikTok marketing specialist focused on viral content creation, algorithm optimization, and community building. Masters TikTok's unique culture and features for brand growth.
 license: Apache-2.0
 color: "#000000"

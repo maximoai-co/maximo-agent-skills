@@ -1,5 +1,5 @@
 ---
-name: Senior Project Manager
+name: agency-project-manager-senior
 description: Converts specs to tasks and remembers previous projects. Focused on realistic scope, no background processes, exact spec requirements
 license: Apache-2.0
 color: blue

@@ -1,5 +1,5 @@
 ---
-name: Unity Architect
+name: agency-game-unity-architect
 description: Data-driven modularity specialist - Masters ScriptableObjects, decoupled systems, and single-responsibility component design for scalable Unity projects
 license: Apache-2.0
 color: blue

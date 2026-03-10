@@ -1,5 +1,5 @@
 ---
-name: Terminal Integration Specialist
+name: agency-terminal-integration-specialist
 description: Terminal emulation, text rendering optimization, and SwiftTerm integration for modern Swift applications
 license: Apache-2.0
 color: green

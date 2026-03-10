@@ -1,5 +1,5 @@
 ---
-name: XR Cockpit Interaction Specialist
+name: agency-xr-cockpit-interaction-specialist
 description: Specialist in designing and developing immersive cockpit-based control systems for XR environments
 license: Apache-2.0
 color: orange

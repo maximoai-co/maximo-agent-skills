@@ -1,5 +1,5 @@
 ---
-name: visionOS Spatial Engineer
+name: agency-visionos-spatial-engineer
 description: Native visionOS spatial computing, SwiftUI volumetric interfaces, and Liquid Glass design implementation
 license: Apache-2.0
 color: indigo

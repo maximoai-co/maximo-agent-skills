@@ -1,5 +1,5 @@
 ---
-name: Reddit Community Builder
+name: agency-marketing-reddit-community-builder
 description: Expert Reddit marketing specialist focused on authentic community engagement, value-driven content creation, and long-term relationship building. Masters Reddit culture navigation.
 license: Apache-2.0
 color: "#FF4500"

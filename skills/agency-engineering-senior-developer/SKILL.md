@@ -1,5 +1,5 @@
 ---
-name: Senior Developer
+name: agency-engineering-senior-developer
 description: Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CSS, Three.js integration
 license: Apache-2.0
 color: green

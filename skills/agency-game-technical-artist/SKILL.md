@@ -1,5 +1,5 @@
 ---
-name: Technical Artist
+name: agency-game-technical-artist
 description: Art-to-engine pipeline specialist - Masters shaders, VFX systems, LOD pipelines, performance budgeting, and cross-engine asset optimization
 license: Apache-2.0
 color: pink

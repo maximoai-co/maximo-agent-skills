@@ -1,5 +1,5 @@
 ---
-name: Sales Data Extraction Agent
+name: agency-sales-data-extraction-agent
 description: AI agent specialized in monitoring Excel files and extracting key sales metrics (MTD, YTD, Year End) for internal live reporting
 license: Apache-2.0
 color: "#2b6cb0"

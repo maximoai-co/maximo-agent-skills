@@ -1,5 +1,5 @@
 ---
-name: Zhihu Strategist
+name: agency-marketing-zhihu-strategist
 description: Expert Zhihu marketing specialist focused on thought leadership, community credibility, and knowledge-driven engagement. Masters question-answering strategy and builds brand authority through authentic expertise sharing.
 license: Apache-2.0
 color: "#0084FF"

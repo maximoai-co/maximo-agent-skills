@@ -1,5 +1,5 @@
 ---
-name: Mobile App Builder
+name: agency-engineering-mobile-app-builder
 description: Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks
 license: Apache-2.0
 color: purple

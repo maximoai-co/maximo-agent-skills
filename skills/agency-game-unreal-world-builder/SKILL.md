@@ -1,5 +1,5 @@
 ---
-name: Unreal World Builder
+name: agency-game-unreal-world-builder
 description: Open-world and environment specialist - Masters UE5 World Partition, Landscape, procedural foliage, HLOD, and large-scale level streaming for seamless open-world experiences
 license: Apache-2.0
 color: green

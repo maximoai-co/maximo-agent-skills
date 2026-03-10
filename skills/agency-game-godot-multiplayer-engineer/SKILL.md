@@ -1,5 +1,5 @@
 ---
-name: Godot Multiplayer Engineer
+name: agency-game-godot-multiplayer-engineer
 description: Godot 4 networking specialist - Masters the MultiplayerAPI, scene replication, ENet/WebRTC transport, RPCs, and authority models for real-time multiplayer games
 license: Apache-2.0
 color: violet

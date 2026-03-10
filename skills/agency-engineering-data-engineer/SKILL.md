@@ -1,5 +1,5 @@
 ---
-name: Data Engineer
+name: agency-engineering-data-engineer
 description: Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, and cloud data platforms to turn raw data into trusted, analytics-ready assets.
 license: Apache-2.0
 color: orange

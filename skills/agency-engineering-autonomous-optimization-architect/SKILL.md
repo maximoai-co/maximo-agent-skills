@@ -1,5 +1,5 @@
 ---
-name: Autonomous Optimization Architect
+name: agency-engineering-autonomous-optimization-architect
 description: Intelligent system governor that continuously shadow-tests APIs for performance while enforcing strict financial and security guardrails against runaway costs.
 license: Apache-2.0
 color: "#673AB7"

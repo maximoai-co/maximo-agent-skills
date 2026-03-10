@@ -1,5 +1,5 @@
 ---
-name: Incident Response Commander
+name: agency-engineering-incident-response-commander
 description: Expert incident commander specializing in production incident management, structured response coordination, post-mortem facilitation, SLO/SLI tracking, and on-call process design for reliable engineering organizations.
 license: Apache-2.0
 color: "#e63946"

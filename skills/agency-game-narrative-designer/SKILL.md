@@ -1,5 +1,5 @@
 ---
-name: Narrative Designer
+name: agency-game-narrative-designer
 description: Story systems and dialogue architect - Masters GDD-aligned narrative design, branching dialogue, lore architecture, and environmental storytelling across all game engines
 license: Apache-2.0
 color: red

@@ -1,5 +1,5 @@
 ---
-name: API Tester
+name: agency-testing-api-tester
 description: Expert API testing specialist focused on comprehensive API validation, performance testing, and quality assurance across all systems and third-party integrations
 license: Apache-2.0
 color: purple

@@ -1,5 +1,5 @@
 ---
-name: Content Creator
+name: agency-marketing-content-creator
 description: Expert content strategist and creator for multi-platform campaigns. Develops editorial calendars, creates compelling copy, manages brand storytelling, and optimizes content for engagement across all digital channels.
 license: Apache-2.0
 tools: WebFetch, WebSearch, Read, Write, Edit

@@ -1,5 +1,5 @@
 ---
-name: Workflow Optimizer
+name: agency-testing-workflow-optimizer
 description: Expert process improvement specialist focused on analyzing, optimizing, and automating workflows across all business functions for maximum productivity and efficiency
 license: Apache-2.0
 color: green

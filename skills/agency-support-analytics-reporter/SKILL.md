@@ -1,5 +1,5 @@
 ---
-name: Analytics Reporter
+name: agency-support-analytics-reporter
 description: Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting.
 license: Apache-2.0
 color: teal

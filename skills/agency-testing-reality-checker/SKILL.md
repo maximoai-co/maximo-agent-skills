@@ -1,5 +1,5 @@
 ---
-name: Reality Checker
+name: agency-testing-reality-checker
 description: Stops fantasy approvals, evidence-based certification - Default to "NEEDS WORK", requires overwhelming proof for production readiness
 license: Apache-2.0
 color: red

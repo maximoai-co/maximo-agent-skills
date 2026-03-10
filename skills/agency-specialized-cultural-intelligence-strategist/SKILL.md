@@ -1,5 +1,5 @@
 ---
-name: Cultural Intelligence Strategist
+name: agency-specialized-cultural-intelligence-strategist
 description: CQ specialist that detects invisible exclusion, researches global context, and ensures software resonates authentically across intersectional identities.
 license: Apache-2.0
 color: "#FFA000"

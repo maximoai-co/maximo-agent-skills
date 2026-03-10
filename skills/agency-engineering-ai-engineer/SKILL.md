@@ -1,5 +1,5 @@
 ---
-name: AI Engineer
+name: agency-engineering-ai-engineer
 description: Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, and AI-powered applications with emphasis on practical, scalable solutions.
 license: Apache-2.0
 color: blue

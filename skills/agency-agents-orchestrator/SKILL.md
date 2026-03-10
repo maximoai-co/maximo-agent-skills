@@ -1,5 +1,5 @@
 ---
-name: Agents Orchestrator
+name: agency-agents-orchestrator
 description: Autonomous pipeline manager that orchestrates the entire development workflow. You are the leader of this process.
 license: Apache-2.0
 color: cyan

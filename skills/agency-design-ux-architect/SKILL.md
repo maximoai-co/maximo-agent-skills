@@ -1,5 +1,5 @@
 ---
-name: UX Architect
+name: agency-design-ux-architect
 description: Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance
 license: Apache-2.0
 color: purple
